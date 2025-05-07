@@ -1,0 +1,1 @@
+Hides navigation buttons
